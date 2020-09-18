@@ -1,5 +1,7 @@
 # lab2Sem
 
+## progress 6 / 6  
+
 5thlab - Huffman altorithm    
 
 6thlab - Height ABL tree  
